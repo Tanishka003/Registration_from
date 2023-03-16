@@ -1,0 +1,37 @@
+body{ 
+    
+    
+    background-image: url("https://png.pngtree.com/background/20210714/original/pngtree-graduation-cap-school-supplies-blackboard-education-background-picture-image_1219918.jpg");
+    background-repeat: no-repeat;
+    background-position: center;  
+    background-size: cover;
+    /*padding: 20px;
+    margin: 200px;*/
+}
+
+h1{
+    text-align: center;
+    color: azure;
+}
+
+.type{
+       border: 0.5px;
+       text-align: center;
+       color: antiquewhite;
+       /* background-color: rgb(236, 113, 12); */
+}
+/* .contaainer{
+    border: 2px solid wheat;
+    width: 4;
+} */
+
+
+.btn{
+    background-color: rgb(236, 113, 12);
+    
+}
+
+.box{
+    background-color: rgb(220, 231, 226);
+}
+
